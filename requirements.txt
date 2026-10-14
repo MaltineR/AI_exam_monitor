@@ -1,0 +1,8 @@
+streamlit>=1.36
+streamlit-webrtc>=0.47
+av>=12.0
+opencv-python>=4.8
+mediapipe==0.10.21
+numpy==1.26.4
+pandas>=2.0
+ultralytics>=8.2
